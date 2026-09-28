@@ -1,0 +1,13 @@
+# Python virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large scraped/processed CSV files (Optional: keep if you want demo data on GitHub)
+# data/raw/*.csv
+# data/processed/*.csv

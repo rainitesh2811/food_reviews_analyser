@@ -1,0 +1,13 @@
+# Web Scraping & Browser Automation
+playwright>=1.40.0
+
+# Data Processing & Storage
+pandas>=2.0.0
+
+# Machine Learning & NLP Analysis
+transformers>=4.35.0
+torch>=2.0.0
+
+# Helper dependencies for text processing
+sentencepiece>=0.1.99
+protobuf>=3.20.0
